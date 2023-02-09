@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"Chromium","producer":"Skia/PDF m78","creationdate":"D:20221006184319+00'00'","moddate":"D:20221006184319+00'00'","trapped":"","fileName":"196161_Suraj_(3)_(3).pdf","bounds":[[908,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};

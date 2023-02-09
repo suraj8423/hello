@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 908 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0"><path d="M0,1286.6V0H909.3V1286.6Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0{
+fill: #FFF;
+}
+.g1{
+fill: #406B8C;
+}
+.g2{
+fill: #0098CF;
+}
+.g3{
+fill: #00E;
+}
+.g4{
+fill: #666;
+}
+]]></style>
+</defs>
+<path clip-path="url(#c0)" d="M0,0H1212V1714.9H0V0Z" class="g0"/>
+<path d="M0,0H909V1285.7H0V0Z" class="g0"/>
+<path d="M0,0H909V162.6H0V0Z" class="g1"/>
+<path d="M42.4,232.4H462.5v1.2H42.4v-1.2Z" class="g2"/>
+<path d="M42.4,462.5H462.5v1.2H42.4v-1.2Z" class="g2"/>
+<path d="M42.4,1165.5H462.5v1.1H42.4v-1.1Z" class="g2"/>
+<path d="M183.3,488.9h19.5V490H183.3v-1.1Z" class="g3"/>
+<path d="M55,503.7h5.7v5.8H55v-5.8Z" class="g4"/>
+<path d="M55,594.2h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M55,641.1h5.7v5.8H55v-5.8Z" class="g4"/>
+<path d="M315.7,717.8h19.5V719H315.7v-1.2Z" class="g3"/>
+<path d="M55,732.7h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M55,779.7h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M55,826.6h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M55,851.8h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M201.6,928.5h19.5v1.1H201.6v-1.1Z" class="g3"/>
+<path d="M55,943.4h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M55,1033.8h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M55,1080.8h5.7v5.7H55v-5.7Z" class="g4"/>
+<path d="M506,232.4H865.5v1.2H506v-1.2Z" class="g2"/>
+<path d="M506,506H865.5v1.2H506V506Z" class="g2"/>
+<path d="M506,757.9H865.5V759H506v-1.1Z" class="g2"/>
+<path d="M598.4,258.7h19.5v1.2H598.4v-1.2Z" class="g3"/>
+<path d="M647.4,324h19.5v1.1H647.4V324Z" class="g3"/>
+<path d="M518.6,929.6h5.8v5.8h-5.8v-5.8Z" class="g4"/>
+<path d="M518.6,976.6h5.8v5.7h-5.8v-5.7Z" class="g4"/>
+<path d="M518.6,1068.2h5.8v5.7h-5.8v-5.7Z" class="g4"/>
+<path d="M518.6,1181.5h5.8v5.7h-5.8v-5.7Z" class="g4"/>
+</svg>
